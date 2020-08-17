@@ -32,13 +32,13 @@ No need to create the list manually, run any PowerShell to execute any commands 
 ```
 Follow my blog post for detailed installation instructions:
 (https://www.leonarmston.com/2020/08/live-london-underground-line-status---sharepoint-view-formatting--power-automate)
+
 Please leave comments, questions or feedback on the blog post. I hope you find this helpful and it helps your organisation.
 
 ### Connect with me:
 * [Twitter](https://twitter.com/LeonArmston)
 * [LinkedIn](https://linkedin.com/in/leon-armston)
 * [Blog](https://www.leonarmston.com)
-
 
 ## License
 
