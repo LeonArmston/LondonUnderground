@@ -13,13 +13,6 @@ These instructions will get you a copy of the project up and running on your loc
     * View Formatting (JSON used to style the list into the familiar TFL Status board)
 * Power Automate (used for creating the Tube Status SharePoint list using SharePoint REST API and then on a scheduled basis retrieve the latest TFL tube statuses)
 
-### How To Install The Solution
-
-I have attempted to simplify/automate the deployment of the solution as much as possible. I have combined this into two flow templates which with a few very minor changes do all the work for you to deploy and configure this solution!
-```
-No need to create the list manually, run any PowerShell to execute any commands apply a PnP Template or Site Design etc.
-```
-
 ### Prerequisites
 
 * You must be able to licenced and able to create Power Automate flows
@@ -27,8 +20,12 @@ No need to create the list manually, run any PowerShell to execute any commands 
 * You must have a modern SharePoint site where you can store the data for the app.
 * Download the assets from GitHub (https://github.com/Leon-Armston/LondonUnderground)
 
-## Install the Solution
+## How To Install The Solution
 
+I have attempted to simplify/automate the deployment of the solution as much as possible. I have combined this into two flow templates which with a few very minor changes do all the work for you to deploy and configure this solution!
+```
+No need to create the list manually, run any PowerShell to execute any commands apply a PnP Template or Site Design etc.
+```
 Follow my blog post for detailed installation instructions:
 (https://www.leonarmston.com/2020/08/live-london-underground-line-status---sharepoint-view-formatting--power-automate)
 Please leave comments, questions or feedback on the blog post. I hope you find this helpful and it helps your organisation.
