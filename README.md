@@ -6,20 +6,16 @@ Display on the homepage of your SharePoint intranet a live feed of London Underg
 
 ![Animated GIF of the Styled SharePoint List View In Action](https://user-images.githubusercontent.com/12968962/90440536-4cd37500-e0cf-11ea-8d65-7a76f7a8db17.gif)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Technologies Used
 
-* SharePoint 
-  * List (used to store the latest TFL line status data)
-    * View Formatting (JSON used to style the list into the familiar TFL Status board)
-* Power Automate (used for creating the Tube Status SharePoint list using SharePoint REST API and then on a scheduled basis retrieve the latest TFL tube statuses)
+* **SharePoint** 
+  * **List** (used to store the latest TFL line status data)
+    * **View Formatting** (JSON used to style the list into the familiar TFL Status board)
+* **Power Automate** (used for creating the Tube Status SharePoint list using SharePoint REST API and then on a scheduled basis retrieve the latest TFL tube statuses)
 
 ### Prerequisites
 
-* You must be able to licenced and able to create Power Automate flows
+* You must be licenced and able to create Power Automate flows
 * You must have a valid SharePoint Online license and permission to create lists.
 * You must have a modern SharePoint site where you can store the data for the app.
 * Download the assets from GitHub (https://github.com/Leon-Armston/LondonUnderground)
