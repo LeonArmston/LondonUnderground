@@ -18,7 +18,7 @@ Display on the homepage of your SharePoint intranet a live feed of London Underg
 * You must be licenced and able to create Power Automate flows
 * You must have a valid SharePoint Online license and permission to create lists.
 * You must have a modern SharePoint site where you can store the data for the app.
-* Download the assets from GitHub (https://github.com/Leon-Armston/LondonUnderground)
+* Download the assets from GitHub (https://github.com/LeonArmston/LondonUnderground)
 
 ## How To Install The Solution
 
