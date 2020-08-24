@@ -36,7 +36,7 @@
         "elmType": "div",
         "txtContent": "[$Title]",
         "attributes": {
-          "class": "=if([$LineID] == 'circle', ' ms-fontColor-black',if([$LineID] == 'hammersmith-city', 'ms-fontColor-black',if([$LineID] == 'victoria', ' ms-fontColor-black',if([$LineID] == 'waterloo-city', 'ms-fontColor-black',if([$LineID] == 'dlr', 'ms-fontColor-black','ms-fontColor-white')))))"
+          "class": "=if([$LineID] == 'circle', ' ms-fontColor-black',if([$LineID] == 'hammersmith-city', 'ms-fontColor-black',if([$LineID] == 'victoria', ' ms-fontColor-black',if([$LineID] == 'waterloo-city', 'ms-fontColor-black',if([$LineID] == 'dlr', 'ms-fontColor-black', if([$LineID] == 'london-overground','ms-fontColor-white'))))))"
         },
         "style": {
           "display": "=if([$LineStatus] != 'Good Service', 'table-cell','none')",
