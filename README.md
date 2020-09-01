@@ -27,7 +27,7 @@ I have attempted to simplify/automate the deployment of the solution as much as 
 No need to create the list manually, run any PowerShell to execute any commands apply a PnP Template or Site Design etc.
 ```
 Follow my blog post for detailed installation instructions:
-(https://www.leonarmston.com/2020/08/live-london-underground-line-status---sharepoint-view-formatting--power-automate)
+(https://www.leonarmston.com/2020/09/live-london-underground-line-status-sharepoint-view-formatting-power-automate/)
 
 Please leave comments, questions or feedback on the blog post. I hope you find this helpful and it helps your organisation.
 
