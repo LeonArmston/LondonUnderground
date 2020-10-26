@@ -2,9 +2,9 @@
 
 Display on the homepage of your SharePoint intranet a live feed of London Underground line statuses using the publicly available Transport for London (TFL) API. The results are retrieved by Power Automate, then written to a SharePoint list and using SharePoint view formatting the list view is styled so it looks like a familiar TFL tube status board with correct line colours. It also reports on the Overground, Ferry, TFL Rail and Tram. The status(es) of the lines can then be clicked if there is any further information i.e. delays/suspension/closure etc. 
 
-![Image of SharePoint List view web part on an Intranet](https://user-images.githubusercontent.com/12968962/90440646-80160400-e0cf-11ea-8cbd-9deeefea22ce.png)
+![Image of SharePoint List view web part on an Intranet](./screenshot.png)
 
-![Animated GIF of the Styled SharePoint List View In Action](https://user-images.githubusercontent.com/12968962/90440536-4cd37500-e0cf-11ea-8d65-7a76f7a8db17.gif)
+![Animated GIF of the Styled SharePoint List View In Action](./screenshot-animated.gif)
 
 ### Technologies Used
 
