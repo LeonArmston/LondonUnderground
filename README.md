@@ -100,13 +100,12 @@ Version|Date|Comments
 -------|----|--------
 1.0|October 24, 2020|Initial release
 2.0|January 17, 2021|Updated to include Logic App version and improved Flow.
-Please leave comments, questions or feedback on the blog post. I hope you find this helpful and it helps your organisation.
 
 ### Connect with me:
 * [Twitter](https://twitter.com/LeonArmston)
 * [LinkedIn](https://linkedin.com/in/leon-armston)
 * [Blog](https://www.leonarmston.com)
-
+Please leave comments, questions or feedback on the blog post. I hope you find this helpful and it helps your organisation.
 
 \#SharingIsCaring
 
