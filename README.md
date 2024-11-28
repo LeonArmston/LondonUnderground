@@ -100,7 +100,7 @@ Version|Date|Comments
 -------|----|--------
 1.0|October 24, 2020|Initial release
 2.0|January 17, 2021|Updated to include Logic App version and improved Flow.
-3.0|January 17, 2021|Updated [LondonTubes-TFLStatusAPI.json](./logicapps/LondonTubes-TFLStatusAPI.json) to include addition of London Overground & Eleizabeth lines
+3.0|November 28, 2024|Updated [LondonTubes-TFLStatusAPI.json](./logicapps/LondonTubes-TFLStatusAPI.json) to include addition of London Overground & Eleizabeth lines
 
 ### Connect with me:
 * [Twitter](https://twitter.com/LeonArmston)
