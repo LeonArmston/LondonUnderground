@@ -14,7 +14,7 @@
         "position": "relative",
         "min-height": "44px",
         "width": "340px"
-      },
+      }, 
       "children": [
         {
           "elmType": "div",
